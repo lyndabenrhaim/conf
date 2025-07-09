@@ -23,4 +23,4 @@ eureka:
     prefer-ip-address: true
 
 custom:
-  message: config repo test2
+  message: config repo test3
